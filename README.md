@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="server-icon.png" width="128" alt="Baldoland Remix Server Icon"/>
-</p>
-
 # 🌟 Baldoland Remix | Minecraft 1.21.4
 
 **¡Bienvenidos a Baldoland Remix!**
@@ -12,7 +8,7 @@ Servidor Minecraft optimizado con **PaperMC**, actualizado a la última versión
 
 ## 🟩 Información del Servidor
 
-* **IP:** `35.233.21.10:25565`
+* **IP:** `35.233.21.10`
 * **Versión:** Minecraft Java Edition **1.21.4**
 
 ---
@@ -57,7 +53,6 @@ Explora y colabora:
 
    * Nombre: `Baldoland Remix`
    * Dirección IP: `35.233.21.10`
-   * Puerto: `25565`
 
 ---
 
