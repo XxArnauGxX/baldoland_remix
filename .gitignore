@@ -14,6 +14,7 @@
 /cache/
 /logs/
 /libraries/
+/plugins
 
 # Configs personales
 whitelist.json
