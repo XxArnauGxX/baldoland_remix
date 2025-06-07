@@ -13,7 +13,7 @@
 /backups/
 /cache/
 /logs/
-/plugins/dynmap/
+plugins/dynmap/ids-by-ip.txt
 
 # Archivos de sesión o temporales
 *.pid
@@ -45,3 +45,4 @@ plugins/Essentials/userdata/
 # Archivos JSON de historial y cache
 version_history.json
 usercache.json
+plugins/spark/tmp-client/
