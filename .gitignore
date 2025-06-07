@@ -50,3 +50,27 @@ usercache.json
 
 # Datos temporales de spark
 plugins/spark/tmp-client/
+
+# Datos sensibles de jugadores
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
+
+# Datos generados por Dynmap
+plugins/dynmap/web/tiles/
+plugins/dynmap/web/faces/
+plugins/dynmap/web/standalone/
+plugins/dynmap/world.pending
+
+# Tareas temporales de Chunky
+plugins/Chunky/tasks/
+
+# Archivos generados por Paper al remapear plugins
+plugins/.paper-remapped/
+
+# Configuración con UUID del servidor de bStats
+plugins/bStats/config.yml
+
+# Datos dinámicos de usuarios de TAB
+plugins/TAB/users.yml
