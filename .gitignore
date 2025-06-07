@@ -32,3 +32,7 @@ server-icon.png
 *.tar
 *.gz
 
+# Archivos JSON de historial y cache
+version_history.json
+usercache.json
+
