@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="server-icon.png" width="128" alt="Baldoland Remix Server Icon"/>
-</p>
-
 # 🌟 Baldoland Remix | Minecraft 1.21.4
 
 **¡Bienvenidos a Baldoland Remix!**
