@@ -32,8 +32,15 @@ server-icon.png
 *.tar
 *.gz
 
+
 # Essentials plugin data
 plugins/Essentials/usermap.bin
 plugins/Essentials/uuids.bin
 plugins/Essentials/userdata/
 
+# Bases de datos de LuckPerms
+/plugins/LuckPerms/*.mv.db
+
+# Archivos JSON de historial y cache
+version_history.json
+usercache.json
