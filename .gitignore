@@ -32,3 +32,6 @@ server-icon.png
 *.tar
 *.gz
 
+# Bases de datos de LuckPerms
+/plugins/LuckPerms/*.mv.db
+
