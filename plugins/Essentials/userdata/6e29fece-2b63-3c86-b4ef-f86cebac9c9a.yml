@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.19.221.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749323552166
+  login: 1749323344688
+money: '0'
+last-account-name: arnaly
+logoutlocation:
+  world: c9efe04d-43fb-4a4b-82e8-96bb3ebaf7a9
+  world-name: world
+  x: -21.71996545754891
+  y: 73.0
+  z: 150.43860692705556
+  yaw: 179.85423278808594
+  pitch: 15.273124694824219

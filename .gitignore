@@ -13,15 +13,6 @@
 /backups/
 /cache/
 /logs/
-/libraries/
-/plugins
-
-# Configs personales
-whitelist.json
-ops.json
-banned-ips.json
-banned-players.json
-usercache.json
 
 # Archivos de sesión o temporales
 *.pid
@@ -29,14 +20,6 @@ usercache.json
 *.jar
 server.jar
 server-icon.png
-
-# Archivos de plugins (si quieres que no se suba la config ni datos de plugins)
-plugins/*/data/
-plugins/*/userdata/
-plugins/*/logs/
-plugins/*/cache/
-plugins/*/config.yml
-plugins/*/settings.yml
 
 # IDE/Editor
 .idea/
