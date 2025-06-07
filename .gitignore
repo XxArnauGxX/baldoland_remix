@@ -1,0 +1,49 @@
+# Ignorar datos sensibles y archivos innecesarios
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Mundos y datos del juego
+/world/
+/world_nether/
+/world_the_end/
+/versions/
+/backups/
+/cache/
+/logs/
+/libraries/
+
+# Configs personales
+whitelist.json
+ops.json
+banned-ips.json
+banned-players.json
+usercache.json
+
+# Archivos de sesión o temporales
+*.pid
+*.lock
+*.jar
+server.jar
+server-icon.png
+
+# Archivos de plugins (si quieres que no se suba la config ni datos de plugins)
+plugins/*/data/
+plugins/*/userdata/
+plugins/*/logs/
+plugins/*/cache/
+plugins/*/config.yml
+plugins/*/settings.yml
+
+# IDE/Editor
+.idea/
+.vscode/
+*.iml
+
+# Otros archivos que puedas añadir en el futuro
+*.zip
+*.tar
+*.gz
+
