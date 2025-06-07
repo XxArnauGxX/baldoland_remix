@@ -13,6 +13,7 @@
 /backups/
 /cache/
 /logs/
+/plugins/dynmap/
 
 # Archivos de sesión o temporales
 *.pid
