@@ -13,6 +13,8 @@
 /backups/
 /cache/
 /logs/
+
+# Evitar almacenar IPs de Dynmap
 plugins/dynmap/ids-by-ip.txt
 
 # Archivos de sesión o temporales
@@ -45,4 +47,6 @@ plugins/Essentials/userdata/
 # Archivos JSON de historial y cache
 version_history.json
 usercache.json
+
+# Datos temporales de spark
 plugins/spark/tmp-client/
