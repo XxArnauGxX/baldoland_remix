@@ -32,3 +32,8 @@ server-icon.png
 *.tar
 *.gz
 
+# Essentials plugin data
+plugins/Essentials/usermap.bin
+plugins/Essentials/uuids.bin
+plugins/Essentials/userdata/
+
